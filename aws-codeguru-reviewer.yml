@@ -20,3 +20,8 @@ excludeFiles:
 - src/some-package/** 
 - tst/**
 - src/some-*/**/*.json
+
+excludeFiles:
+- src/some-package/** 
+- tst/**
+- src/some-*/**/*.json
