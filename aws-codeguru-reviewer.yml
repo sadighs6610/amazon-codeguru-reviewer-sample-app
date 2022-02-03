@@ -1,0 +1,4 @@
+version: 2.0
+
+excludeFiles:
+- src/main/java/com/shipmentEvents/util/**
