@@ -1,5 +1,7 @@
-
-version: 1.0
-
-excludeFiles:
-- src/main/java/com/shipmentEvents/util/**
+{
+  "@class":"MyApp.Obj",
+  val:[
+    "java.lang.Long",
+    1
+  ]
+}
