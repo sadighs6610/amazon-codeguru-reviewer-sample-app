@@ -1,0 +1,13 @@
+version: 1.0
+
+{
+   "@class":"MyApp.Obj",
+   "val":[
+      "java.lang.Long",
+      1
+   ]
+}
+
+a: 1
+b: 2
+- src/*
