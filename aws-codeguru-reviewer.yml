@@ -1,13 +1,10 @@
-version: 1.0
+version: 1.0 
 
+excludeFiles:
+  - ["org.apache.xalan.xsltc.trax.TemplatesImpl",
 {
-   "@class":"MyApp.Obj",
-   "val":[
-      "java.lang.Long",
-      1
-   ]
+"transletBytecodes":[""],
+"transletName":"foo",
+"outputProperties":{}
 }
-
-a: 1
-b: 2
-- src/*
+]
