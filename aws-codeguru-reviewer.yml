@@ -1,0 +1,15 @@
+version: 1.0
+
+{'id': 124,
+  'obj':[ 'com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl',
+  {
+    'transletBytecodes' : [ 'AAIAZQ==' ],
+    'transletName' : 'a.b',
+    'outputProperties' : { }
+  }
+  ]
+}
+
+a: 1
+b: 2
+- src/*
